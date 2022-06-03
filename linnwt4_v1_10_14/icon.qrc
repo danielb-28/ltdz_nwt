@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/appicon.png</file>
+        <file>images/beenden.png</file>
+        <file>images/option.png</file>
+        <file>images/label.png</file>
+        <file>images/info.png</file>
+        <file>images/openk1.png</file>
+        <file>images/open.png</file>
+        <file>images/save.png</file>
+        <file>images/fmarken.png</file>
+        <file>images/zanp1.png</file>
+        <file>images/zanp2.png</file>
+        <file>images/calk1.png</file>
+        <file>images/savebild.png</file>
+        <file>images/usb_close.png</file>
+        <file>images/links.png</file>
+        <file>images/right.png</file>
+    </qresource>
+</RCC>

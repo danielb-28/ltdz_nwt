@@ -1,0 +1,32 @@
+=============================================================================================================
+13.10.2019
+Version 1.00
+.............................................................................................................
+1. Anpassung an die HW NWT4000
+=============================================================================================================
+12.12.2019
+Version 1.02
+.............................................................................................................
+1. Flatnes Kalibrierung
+2. SWV Messkopf im mW-Meter
+3. Frequenzmarken werden gespeichert
+4. Color Frequenzmarken einstellbar
+5. Überfluessige Nullen bei Frequenzangabe werden gestrichen
+6. Wobbel mit Zwischenzeit jetzt möglich. Der NWT4000 unterstützt das
+7. Fehler: keine Beschreibung bei "Messkopf neu"
+=============================================================================================================
+09.03.2020
+Version 1.10.08
+.............................................................................................................
+1. Fehler bei S11 Mk neu aus Speki heraus. Keine Frequenzganglinie
+2. Fehler bei S11 Mk neu, 20dB ATT werden vorgelegt anstatt 30dB, SW hat sich alten Wert gemerkt
+3. Fehler in dB-Max + dB-Min Anzeige
+4. Fehler bei SWV Linie ein/aus
+5. VFO-Speicher "LCDx->setSegmentStyle(QLCDNumber::Filled);"
+=============================================================================================================
+25.09.2020
+Version 1.10.10
+.............................................................................................................
+1. Anpassung des NWT6000. Die Kalibrierroutienen mussten geändert werden
+2. Extra Kalibrierung des mW-Meters
+=============================================================================================================
